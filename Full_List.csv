@@ -58,7 +58,7 @@ Australia,Bunbury,AUBUY,YES,YES,YES,Certificates issued at this port are issued 
 Australia,Bundaberg,AUBDB,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Burnie,AUBWT,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Cairns,AUCNS,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
-Australia,Christmas Island,XMAS,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
+Australia,Christmas Island,,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Dampier,AUDAM,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Darwin,AUDRW,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Devonport,AUDPO,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
@@ -73,21 +73,17 @@ Australia,Hobart,AUHBA,YES,YES,YES,Certificates issued at this port are issued e
 Australia,Launceston,AULST,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Mackay,AUMKY,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Melbourne,AUMEL,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
-Australia,Melville Bay,AUGOV,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
-Australia,Milner Bay,AUGTE,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Newcastle,AUNTL,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Adelaide,AUPAE,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Alma,AUPTL,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Hedland,AUPHE,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Kembla,AUPKL,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
-Australia,Port Kennedy,AUTIS,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Lincoln,AUPLO,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port of Botany Bay,AUBTB,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Port Walcott,AUPWL,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Portland,AUPTJ,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Sydney,AUPJK,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Townsville,AUTSV,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
-Australia,Weipa,AUWEI,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Westernport,AUWEP,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Australia,Wyndham,AUWYN,YES,YES,YES,Certificates issued at this port are issued electronically with unique identification numbers. Certificates can be verified by contacting the Australian National Maritime Centre on +61 8 8201 6185 or at maritimenc@agriculture.gov.au
 Azerbaijan,Baku,AZBAK,YES,YES,YES,
@@ -581,6 +577,7 @@ Colombia,Tumaco,COTCO,NO,YES,NO,
 Colombia,Turbo,COTRB,YES,YES,NO,
 Côte d’Ivoire,Abidjan,CIABJ,YES,YES,YES,
 Côte d’Ivoire,San Pedro,CISPY,YES,YES,YES,
+COUNTRY_FK.NAME_SHORT_EN,Geneva,GEN,NO,NO,NO,
 Croatia,Bakar,HRBAK,YES,YES,YES,Border sanitary inspection Rijeka
 Croatia,Dubrovnik,HRV DBV,YES,YES,YES,
 Croatia,Omisalj,HROMI,YES,YES,YES,Border sanitary inspection Rijeka
@@ -611,23 +608,33 @@ Denmark,Frederikshavn,DKFDH,YES,YES,YES,
 Denmark,Frederiksværk,DKSVV,YES,YES,YES,
 Denmark,Gedser Gedser Havn,DKGED,YES,YES,YES,
 Denmark,Grenaa,DKGRE,YES,YES,YES,
+Denmark,Hanstholm Hanstholm Havn,DKHAN,YES,YES,YES,
+Denmark,Helsingor Helsingor Havn,DKHLS,YES,YES,YES,
+Denmark,Hirtshals Hirtshals Havn,DKHIR,YES,YES,YES,
 Denmark,Horsens,DKHOR,YES,YES,YES,
+Denmark,Hvide Sande Hvide Sande Havn,DKHVS,YES,YES,YES,
 Denmark,Kalundborg,DKKAL,YES,YES,YES,
 Denmark,København,DKCPH,YES,YES,YES,
 Denmark,Køge,DKKOG,YES,YES,YES,
 Denmark,Kolding,DKKOL,YES,YES,YES,
 Denmark,Korsør,DKKRR,YES,YES,YES,
+Denmark,Mariager Mariager Havn,DKMRR,YES,YES,YES,
 Denmark,Munkebo,DK,YES,YES,YES,
+Denmark,Naestved Naestved Havn,DKNVD,YES,YES,YES,
 Denmark,Nakskov,DKNAK,YES,YES,YES,
 Denmark,Nyborg,DKNBG,YES,YES,YES,
 Denmark,Odense,DKODE,YES,YES,YES,
 Denmark,Randers,DKRAN,YES,YES,YES,
+Denmark,Rødby Rødby Havne,DKROD/DKTHR,YES,YES,YES,
 Denmark,Rønne,DKRNN,YES,YES,YES,
 Denmark,Skagen,DKSKA,YES,YES,YES,
 Denmark,Stigsnæs,DKSTN,YES,YES,YES,
+Denmark,Studstrupx Studstrupvaerkets Havn,DKSSV,YES,YES,YES,
 Denmark,Svendborg,DKSVE,YES,YES,YES,
+Denmark,Thyborøn Thyborøn Havn,DKTHN,YES,YES,YES,
 Denmark,Tórshavn,FOTOR,YES,YES,YES,
 Denmark,Vejle,DKVEJ,YES,YES,YES,
+Denmark,Vordingborg Vordingborg Havn,DKVOR,YES,YES,YES,
 Djibouti,Djibouti Doraleh Multipurpose Port,DJDMP,YES,YES,YES,"Inspections for SCC issuance occur every day from 08:00 am to 8:00
 am (local time). Advance notice required"
 Djibouti,Djibouti Port de Djibouti SA,DJPDSA,YES,YES,YES,"nspections for SCC issuance occur every day from 08:00 am to 8:00
@@ -1778,6 +1785,8 @@ Sweden,Västervik,SEVVK,YES,YES,YES,
 Sweden,Visby,SEVBY,YES,YES,YES,
 Sweden,Wallhamn,SEWAL,YES,YES,YES,
 Sweden,Ystad,SEYST,YES,YES,YES,
+Switzerland,,SAT,NO,NO,NO,
+Switzerland,Russin,1281,NO,NO,NO,
 Syrian Arab Republic,Tartus,SYTTS,NO,YES,NO,
 Thailand,Bangkok,THBKK,YES,YES,YES,Certificates issued subject to availability of resources and  additional charges may apply
 Thailand,Chian Saen Chiang Saen,,NO,NO,YES,
